@@ -48,7 +48,7 @@ if tempo is not None:
     print(f"O carro chegou {data_atual} e ficará pronto {data_estimada}")
 else:
     print("Tipo de carro não reconhecido")
-
+    
 
 
 
